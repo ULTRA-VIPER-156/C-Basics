@@ -1,6 +1,8 @@
 # C# Basics
 
 Welcome to the **C# Basics** repository! 🎉 This repo is designed to help beginners and enthusiasts learn and explore fundamental concepts of the C# programming language.
+I made this repo as a way to document my learning and Basically teach myself how to be consitent in coding 
+
 
 ## 📖 About the Repository
 This repository contains examples, explanations, and exercises to guide you through the basics of C#. Whether you're a complete beginner or brushing up on your skills, this repository is a great starting point.
@@ -17,6 +19,7 @@ Here are some of the key topics you'll find in this repository:
 - **Collections**: Working with arrays, lists, and dictionaries
 - **Error Handling**: Try-catch blocks and exceptions
 - **File I/O**: Reading from and writing to files
+
 
 ## 🚀 Getting Started
 ### Prerequisites
@@ -48,7 +51,7 @@ Contributions are welcome! If you want to improve the examples or add new topics
 3. Submit a pull request with a detailed description of your changes.
 
 ## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the file for details.
 
 ## 💬 Feedback
 If you have suggestions, questions, or improvements, feel free to open an issue or reach out directly.
