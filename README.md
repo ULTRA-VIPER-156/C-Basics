@@ -50,8 +50,7 @@ Contributions are welcome! If you want to improve the examples or add new topics
 2. Create a new branch for your changes.
 3. Submit a pull request with a detailed description of your changes.
 
-## 📄 License
-This project is licensed under the MIT License. See the file for details.
+
 
 ## 💬 Feedback
 If you have suggestions, questions, or improvements, feel free to open an issue or reach out directly.
