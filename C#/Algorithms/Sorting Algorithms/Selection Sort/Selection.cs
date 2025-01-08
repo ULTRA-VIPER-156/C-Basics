@@ -10,7 +10,7 @@ namespace SelectionSort
     {
         static void Main(string[] args)
         {
-            int[] ints = { 32, 356, 1, 3768, 2342, 86435, 1257 };
+            int[] ints = { 32, 356, 1, 3768, 2342, 86435, 1257 ,21,42,1,51,51,62,61,552,151,131,};
 
 
             //Selection Sort 
@@ -26,9 +26,9 @@ namespace SelectionSort
 
                 for (int i = pass; i < ints.Length; i++)
                 {
-                    int compare = ints[pass];
+                    int compare = ints[pass];//making compare equal to some element in the array 
 
-                    if (ints[i] < compare)
+                    if (ints[i] < compare)//testing to find the smaller element 
                     {
                         min = i;
                     }
@@ -37,12 +37,13 @@ namespace SelectionSort
                 Swap(min, pass,ref ints);
         } 
         
-
+//This will display the sorted array after the Algorithm 
             foreach(int j in ints)
             {
                 Console.WriteLine(j);
             }
         }
+        //This is the swap method 
         static void Swap(int a, int b, ref int[] ints) 
         {
 
